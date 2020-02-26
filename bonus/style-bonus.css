@@ -1,0 +1,59 @@
+body{
+  background-image: url("sfondo2.jpg");
+  background-size: cover;
+}
+.container{
+  /* background-color: lightgrey; */
+  height: auto;
+  margin: 5% auto;
+}
+/* NAVBAR-----------------------------------------------*/
+nav{
+  background-color: black;
+  color: white;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  float: right;
+  padding: 35px 12px;
+}
+.logo{
+  width: 10%;
+  height: auto;
+  float: left;
+}
+.col-lg-3{
+  height: 250px;
+}
+
+#img1{
+  background-image: url("starwars-img1.webp");
+  background-size: cover;
+}
+#img2{
+  background-image: url("img2.webp");
+  background-size: cover;
+  background-position: center;
+}
+#img5{
+  background-image: url("img5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#img9{
+  background-image: url("img9.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#img13{
+  background-image: url("img5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#img14{
+  background-image: url("img9.jpg");
+  background-size: cover;
+  background-position: center;
+}
