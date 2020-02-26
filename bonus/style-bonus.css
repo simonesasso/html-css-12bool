@@ -1,5 +1,5 @@
 body{
-  background-image: url("sfondo2.jpg");
+  background-image: url("immagini/sfondo2.jpg");
   background-size: cover;
 }
 .container{
@@ -29,31 +29,31 @@ li{
 }
 
 #img1{
-  background-image: url("starwars-img1.webp");
+  background-image: url("immagini/starwars-img1.webp");
   background-size: cover;
 }
 #img2{
-  background-image: url("img2.webp");
+  background-image: url("immagini/img2.webp");
   background-size: cover;
   background-position: center;
 }
 #img5{
-  background-image: url("img5.jpg");
+  background-image: url("immagini/img5.jpg");
   background-size: cover;
   background-position: center;
 }
 #img9{
-  background-image: url("img9.jpg");
+  background-image: url("immagini/img9.jpg");
   background-size: cover;
   background-position: center;
 }
 #img13{
-  background-image: url("img5.jpg");
+  background-image: url("immagini/img5.jpg");
   background-size: cover;
   background-position: center;
 }
 #img14{
-  background-image: url("img9.jpg");
+  background-image: url("immagini/img9.jpg");
   background-size: cover;
   background-position: center;
 }
